@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishana</h1>
 <h3 align="center">Passionate about automation testing, dedicated to delivering robust solutions, thrive in collaborative environments, keen eye for detail and strong analytical skills, eager to contribute expertise and drive success. Let's connect and achieve goals together!</h3>
 
-- 📫 How to reach me **ishanayaz01@gmail.com**
+ 📫 How to reach me **ishanayaz01@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=667d4a5d42e58acbb8569124](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=667d4a5d42e58acbb8569124)
+ 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=667d4a5d42e58acbb8569124](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=667d4a5d42e58acbb8569124)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
